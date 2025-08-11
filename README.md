@@ -52,11 +52,11 @@ Travel_Journal/
    ```
    npm install
 3. **Start the development server:**
-  ```
+   ```
    npm run dev
-  ```
-4. **Open in your browser:**
-     ```
+
+5. **Open in your browser:**
+   ```
    Visit http://localhost:5173 (or the URL shown in your terminal).
 
 The production-ready files will be in the `dist/` directory.
