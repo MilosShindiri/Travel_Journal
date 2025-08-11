@@ -10,7 +10,7 @@ A simple React app for showcasing travel destinations, built with [Vite](https:/
 - ⚡️ Powered by React 19 and Vite
 
 ## Project Structure
-
+```
 Travel_Journal/
 ├── public/
 │   └── index.html
@@ -33,7 +33,7 @@ Travel_Journal/
 ├── package.json
 ├── README.md
 └── vite.config.js
-
+```
 
 ## Getting Started
 
