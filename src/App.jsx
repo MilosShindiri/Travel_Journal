@@ -8,12 +8,23 @@ export default function App() {
     return (
       <Entry
         key={element.id}
+        {...element}
+        /*
+        key={element.id}
+        element={element}
+
+        if this then you need to make a change in Entry.jsx to add elemt on every prop (example: {props.img.src})
+
+        OR
+
+        key={element.id}
         img={element.img}
         title={element.title}
         country={element.country}
         googleMapsLink={element.googleMapsLink}
         text={element.text}
         dates={element.dates}
+        */
       />
     );
   });
