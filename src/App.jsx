@@ -7,6 +7,7 @@ export default function App() {
   const entryElements = data.map((element) => {
     return (
       <Entry
+        key={element.id}
         img={element.img}
         title={element.title}
         country={element.country}
