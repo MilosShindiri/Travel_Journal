@@ -53,11 +53,11 @@ Travel_Journal/
    npm install
 3. **Start the development server:**
   ```
-  npm run dev
+   npm run dev
   ```
 4. **Open in your browser:**
      ```
-     Visit http://localhost:5173 (or the URL shown in your terminal).
+   Visit http://localhost:5173 (or the URL shown in your terminal).
 
 The production-ready files will be in the `dist/` directory.
 
@@ -73,4 +73,4 @@ Place custom images in the `src/assets/images/` folder and update the data accor
 
 - React
 - Vite
-- ESLint (with React Hooks and Refresh plugins)
+
